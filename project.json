@@ -1,0 +1,6 @@
+{
+  "name": "museum-curator",
+  "title": "Interactive Museum Exhibit Curator",
+  "description": "A web application allowing users to design and manage virtual museum exhibits using a drag-and-drop interface",
+  "technology": "React Node.js"
+}
